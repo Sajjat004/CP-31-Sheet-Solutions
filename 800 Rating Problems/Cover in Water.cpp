@@ -51,3 +51,5 @@ int32_t main() {
     
   return 0;
 }
+
+// Problem Link: https://codeforces.com/problemset/problem/1900/A
