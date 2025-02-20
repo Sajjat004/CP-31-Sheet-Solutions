@@ -6,11 +6,11 @@
 | 1  | [Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Halloumi%20Boxes.cpp) | 17 | [Forbidden Integer]() | [Code] |
 | 2  | [Line Trip](https://codeforces.com/problemset/problem/1901/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Line%20Trip.cpp) | 18 | [Grasshopper on a Line]() | [Code] |
 | 3  | [Cover in Water](https://codeforces.com/problemset/problem/1900/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Cover%20in%20Water.cpp) | 19 | [Unit Array]() | [Code] |
-| 4  | [Game with Integers]() | [Code] | 20 | [Twin Permutations]() | [Code] |
-| 5  | [Jagged Swaps]() | [Code] | 21 | [Blank Space]() | [Code] |
-| 6  | [Doremy's Paint 3]() | [Code] | 22 | [Coins]() | [Code] |
-| 7  | [Don't Try to Count]() | [Code] | 23 | [Walking Master]() | [Code] |
-| 8  | [How Much Does Daytona Cost?]() | [Code] | 24 | [We Need the Zero]() | [Code] |
+| 4  | [Game with Integers](https://codeforces.com/problemset/problem/1899/A) | [Code] | 20 | [Twin Permutations]() | [Code] |
+| 5  | [Jagged Swaps](https://codeforces.com/problemset/problem/1896/A) | [Code] | 21 | [Blank Space]() | [Code] |
+| 6  | [Doremy's Paint 3](https://codeforces.com/problemset/problem/1890/A) | [Code] | 22 | [Coins]() | [Code] |
+| 7  | [Don't Try to Count](https://codeforces.com/problemset/problem/1881/A) | [Code] | 23 | [Walking Master]() | [Code] |
+| 8  | [How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | [Code] | 24 | [We Need the Zero]() | [Code] |
 | 9  | [Goals of Victory]() | [Code] | 25 | [Prepend and Append]() | [Code] |
 | 10 | [Target Practice]() | [Code] | 26 | [Serval and Mocha's Array]() | [Code] |
 | 11 | [Ambitious Kid]() | [Code] | 27 | [One and Two]() | [Code] |
@@ -84,6 +84,7 @@
 
 
 ### 1200 Rating Problems
+
 | No. | Problem Name | Solution | No. | Problem Name | Solution |
 |----|-------------|----------|----|-------------|----------|
 | 1  | [Three Activities]() | [Code] | 17 | [Dolce Vita]() | [Code] |
@@ -102,7 +103,7 @@
 | 14 | [Mirror Grid]() | [Code] | 30 | [Districts Connection]() | [Code] |
 | 15 | [Binary Deque]() | [Code] | 31 | [Rock and Lever]() | [Code] |
 | 16 | [Stone Age Problem]() | [Code] |    |    |    |
-| 17 | [Dolce Vita]() | [Code] |    |    |    |
+
 
 ### 1300 Rating Problems
 | No. | Problem Name | Solution | No. | Problem Name | Solution |
