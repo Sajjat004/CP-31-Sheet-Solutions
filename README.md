@@ -6,18 +6,18 @@
 | 1  | [Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Halloumi%20Boxes.cpp) | 17 | [Forbidden Integer]() | [Code] |
 | 2  | [Line Trip](https://codeforces.com/problemset/problem/1901/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Line%20Trip.cpp) | 18 | [Grasshopper on a Line]() | [Code] |
 | 3  | [Cover in Water](https://codeforces.com/problemset/problem/1900/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Cover%20in%20Water.cpp) | 19 | [Unit Array]() | [Code] |
-| 4  | [Game with Integers](https://codeforces.com/problemset/problem/1899/A) | [Code] | 20 | [Twin Permutations]() | [Code] |
-| 5  | [Jagged Swaps](https://codeforces.com/problemset/problem/1896/A) | [Code] | 21 | [Blank Space]() | [Code] |
-| 6  | [Doremy's Paint 3](https://codeforces.com/problemset/problem/1890/A) | [Code] | 22 | [Coins]() | [Code] |
-| 7  | [Don't Try to Count](https://codeforces.com/problemset/problem/1881/A) | [Code] | 23 | [Walking Master]() | [Code] |
-| 8  | [How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | [Code] | 24 | [We Need the Zero]() | [Code] |
-| 9  | [Goals of Victory]() | [Code] | 25 | [Prepend and Append]() | [Code] |
-| 10 | [Target Practice]() | [Code] | 26 | [Serval and Mocha's Array]() | [Code] |
-| 11 | [Ambitious Kid]() | [Code] | 27 | [One and Two]() | [Code] |
-| 12 | [Sequence Game]() | [Code] | 28 | [Make it Beautiful]() | [Code] |
-| 13 | [United We Stand]() | [Code] | 29 | [Everybody Likes Good Arrays!]() | [Code] |
-| 14 | [Buttons]() | [Code] | 30 | [Extremely Round]() | [Code] |
-| 15 | [Array Coloring]() | [Code] | 31 | [Two Permutations]() | [Code] |
+| 4  | [Game with Integers](https://codeforces.com/problemset/problem/1899/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Game%20with%20Integers.cpp) | 20 | [Twin Permutations]() | [Code] |
+| 5  | [Jagged Swaps](https://codeforces.com/problemset/problem/1896/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Jagged%20Swaps.cpp) | 21 | [Blank Space]() | [Code] |
+| 6  | [Doremy's Paint 3](https://codeforces.com/problemset/problem/1890/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Doremy's%20Paint%203.cpp) | 22 | [Coins]() | [Code] |
+| 7  | [Don't Try to Count](https://codeforces.com/problemset/problem/1881/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/Don't%20Try%20to%20Count.cpp) | 23 | [Walking Master]() | [Code] |
+| 8  | [How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/800%20Rating%20Problems/How%20Much%20Does%20Daytona%20Cost.cpp) | 24 | [We Need the Zero]() | [Code] |
+| 9  | [Goals of Victory](https://codeforces.com/problemset/problem/1877/A) | [Code] | 25 | [Prepend and Append]() | [Code] |
+| 10 | [Target Practice](https://codeforces.com/problemset/problem/1873/C) | [Code] | 26 | [Serval and Mocha's Array]() | [Code] |
+| 11 | [Ambitious Kid](https://codeforces.com/problemset/problem/1866/A) | [Code] | 27 | [One and Two]() | [Code] |
+| 12 | [Sequence Game](https://codeforces.com/problemset/problem/1862/B) | [Code] | 28 | [Make it Beautiful]() | [Code] |
+| 13 | [United We Stand](https://codeforces.com/problemset/problem/1859/A) | [Code] | 29 | [Everybody Likes Good Arrays!]() | [Code] |
+| 14 | [Buttons](https://codeforces.com/problemset/problem/1858/A) | [Code] | 30 | [Extremely Round]() | [Code] |
+| 15 | [Array Coloring](https://codeforces.com/problemset/problem/1857/A) | [Code] | 31 | [Two Permutations]() | [Code] |
 | 16 | [Desorting]() | [Code] |    |    |    |
 
 
