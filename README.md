@@ -24,14 +24,14 @@
 ### 900 Rating Problems
 | No. | Problem Name | Solution | No. | Problem Name | Solution |
 |----|-------------|----------|----|-------------|----------|
-| 1  | [Forked!](https://codeforces.com/problemset/problem/1904/A) | [Code] | 17 | [Array Cloning Technique]() | [Code] |
-| 2  | [Chemistry](https://codeforces.com/problemset/problem/1883/B) | [Code] | 18 | [Make AP]() | [Code] |
-| 3  | [Vasilije in Cacak](https://codeforces.com/problemset/problem/1878/C) | [Code] | 19 | [Odd Grasshopper]() | [Code] |
-| 4  | [Jellyfish and Undertale]() | [Code] | 20 | [AB Balance]() | [Code] |
-| 5  | [Make It Zero]() | [Code] | 21 | [Make it Divisible by 25]() | [Code] |
-| 6  | [Longest Divisors Interval]() | [Code] | 22 | [Luntik and Subsequences]() | [Code] |
-| 7  | [Balanced Round]() | [Code] | 23 | [Mocha and Math]() | [Code] |
-| 8  | [Comparison String]() | [Code] | 24 | [Exciting Bets]() | [Code] |
+| 1  | [Forked!](https://codeforces.com/problemset/problem/1904/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Forked!.cpp) | 17 | [Array Cloning Technique]() | [Code] |
+| 2  | [Chemistry](https://codeforces.com/problemset/problem/1883/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Chemistry.cpp) | 18 | [Make AP]() | [Code] |
+| 3  | [Vasilije in Cacak](https://codeforces.com/problemset/problem/1878/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Vasilije%20in%20Cacak.cpp) | 19 | [Odd Grasshopper]() | [Code] |
+| 4  | [Jellyfish and Undertale](https://codeforces.com/problemset/problem/1875/A) | [Code] | 20 | [AB Balance]() | [Code] |
+| 5  | [Make It Zero](https://codeforces.com/problemset/problem/1875/A) | [Code] | 21 | [Make it Divisible by 25]() | [Code] |
+| 6  | [Longest Divisors Interval](https://codeforces.com/problemset/problem/1855/B) | [Code] | 22 | [Luntik and Subsequences]() | [Code] |
+| 7  | [Balanced Round](https://codeforces.com/problemset/problem/1850/D) | [Code] | 23 | [Mocha and Math]() | [Code] |
+| 8  | [Comparison String](https://codeforces.com/problemset/problem/1837/B) | [Code] | 24 | [Exciting Bets]() | [Code] |
 | 9  | [Permutation Swap]() | [Code] | 25 | [Bad Boy]() | [Code] |
 | 10 | [Odd Queries]() | [Code] | 26 | [Odd Divisor]() | [Code] |
 | 11 | [Not Dividing]() | [Code] | 27 | [Strange Partition]() | [Code] |
