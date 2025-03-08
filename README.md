@@ -32,14 +32,14 @@
 | 6  | [Longest Divisors Interval](https://codeforces.com/problemset/problem/1855/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Longest%20Divisors%20Interval.cpp) | 22 | [Luntik and Subsequences]() | [Code] |
 | 7  | [Balanced Round](https://codeforces.com/problemset/problem/1850/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Balanced%20Round.cpp) | 23 | [Mocha and Math]() | [Code] |
 | 8  | [Comparison String](https://codeforces.com/problemset/problem/1837/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Comparison%20String.cpp) | 24 | [Exciting Bets]() | [Code] |
-| 9  | [Permutation Swap](https://codeforces.com/problemset/problem/1828/B) | [Code] | 25 | [Bad Boy]() | [Code] |
-| 10 | [Odd Queries](https://codeforces.com/problemset/problem/1807/D) | [Code] | 26 | [Odd Divisor]() | [Code] |
-| 11 | [Not Dividing]() | [Code] | 27 | [Strange Partition]() | [Code] |
-| 12 | [Mainak and Array]() | [Code] | 28 | [Sum of Medians]() | [Code] |
-| 13 | [NIT Destroys the Universe]() | [Code] | 29 | [Three Indices]() | [Code] |
-| 14 | [AvtoBus]() | [Code] | 30 | [01 Game]() | [Code] |
-| 15 | [Make It Increasing]() | [Code] | 31 | [Multiply by 2, divide by 6]() | [Code] |
-| 16 | [Deletive Editing]() | [Code] |    |    |    |
+| 9  | [Permutation Swap](https://codeforces.com/problemset/problem/1828/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Permutation%20Swap.cpp) | 25 | [Bad Boy]() | [Code] |
+| 10 | [Odd Queries](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Odd%20Queries.cpp) | 26 | [Odd Divisor]() | [Code] |
+| 11 | [Not Dividing](https://codeforces.com/problemset/problem/1794/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Not%20Dividing.cpp) | 27 | [Strange Partition]() | [Code] |
+| 12 | [Mainak and Array](https://codeforces.com/problemset/problem/1726/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Mainak%20and%20Array.cpp) | 28 | [Sum of Medians]() | [Code] |
+| 13 | [NIT Destroys the Universe](https://codeforces.com/problemset/problem/1696/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/NIT%20Destroys%20the%20Universe.cpp) | 29 | [Three Indices]() | [Code] |
+| 14 | [AvtoBus](https://codeforces.com/problemset/problem/1679/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/AvtoBus.cpp) | 30 | [01 Game]() | [Code] |
+| 15 | [Make It Increasing](https://codeforces.com/problemset/problem/1675/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/900%20Rating%20Problems/Make%20It%20Increasing.cpp) | 31 | [Multiply by 2, divide by 6]() | [Code] |
+| 16 | [Deletive Editing](https://codeforces.com/problemset/problem/1666/D) | [Code] |    |    |    |
 
 
 ### 1000 Rating Problems
