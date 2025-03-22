@@ -45,12 +45,12 @@
 ### 1000 Rating Problems
 | No. | Problem Name | Solution | No. | Problem Name | Solution |
 |----|-------------|----------|----|-------------|----------|
-| 1  | [Swap and Delete]() | [Code] | 17 | [Roof Construction]() | [Code] |
-| 2  | [Raspberries]() | [Code] | 18 | [Triangles on a Rectangle]() | [Code] |
+| 1  | [Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Swap%20and%20Delete.cpp) | 17 | [Roof Construction]() | [Code] |
+| 2  | [Raspberries](https://codeforces.com/problemset/problem/1883/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Raspberries.cpp) | 18 | [Triangles on a Rectangle]() | [Code] |
 | 3  | [Helmets in Night Light]() | [Code] | 19 | [Divan and a New Project]() | [Code] |
-| 4  | [Olya and Game with Arrays]() | [Code] | 20 | [MEXor Mixup]() | [Code] |
-| 5  | [Monsters]() | [Code] | 21 | [Double-ended Strings]() | [Code] |
-| 6  | [Ski Resort]() | [Code] | 22 | [Add and Divide]() | [Code] |
+| 4  | [Olya and Game with Arrays](https://codeforces.com/problemset/problem/1859/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Olya%20and%20Game%20with%20Arrays.cpp) | 20 | [MEXor Mixup]() | [Code] |
+| 5  | [Monsters](https://codeforces.com/problemset/problem/1849/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Monsters.cpp) | 21 | [Double-ended Strings]() | [Code] |
+| 6  | [Ski Resort](https://codeforces.com/problemset/problem/1840/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Ski%20Resort.cpp) | 22 | [Add and Divide]() | [Code] |
 | 7  | [Array merging]() | [Code] | 23 | [Different Divisors]() | [Code] |
 | 8  | [Distinct Split]() | [Code] | 24 | [Numbers Box]() | [Code] |
 | 9  | [Minimum LCM]() | [Code] | 25 | [Valerii Against Everyone]() | [Code] |
