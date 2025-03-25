@@ -51,15 +51,15 @@
 | 4  | [Olya and Game with Arrays](https://codeforces.com/problemset/problem/1859/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Olya%20and%20Game%20with%20Arrays.cpp) | 20 | [MEXor Mixup]() | [Code] |
 | 5  | [Monsters](https://codeforces.com/problemset/problem/1849/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Monsters.cpp) | 21 | [Double-ended Strings]() | [Code] |
 | 6  | [Ski Resort](https://codeforces.com/problemset/problem/1840/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Ski%20Resort.cpp) | 22 | [Add and Divide]() | [Code] |
-| 7  | [Array merging]() | [Code] | 23 | [Different Divisors]() | [Code] |
-| 8  | [Distinct Split]() | [Code] | 24 | [Numbers Box]() | [Code] |
-| 9  | [Minimum LCM]() | [Code] | 25 | [Valerii Against Everyone]() | [Code] |
-| 10 | [Traffic Light]() | [Code] | 26 | [Buying Torches]() | [Code] |
-| 11 | [Basketball Together]() | [Code] | 27 | [Fair Numbers]() | [Code] |
+| 7  | [Array merging](https://codeforces.com/problemset/problem/1831/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Array%20merging.cpp) | 23 | [Different Divisors]() | [Code] |
+| 8  | [Distinct Split](https://codeforces.com/problemset/problem/1791/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Distinct%20Split.cpp) | 24 | [Numbers Box]() | [Code] |
+| 9  | [Minimum LCM](https://codeforces.com/problemset/problem/1765/M) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Minimum%20LCM.cpp) | 25 | [Valerii Against Everyone]() | [Code] |
+| 10 | [Traffic Light](https://codeforces.com/problemset/problem/1744/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Traffic%20Light.cpp) | 26 | [Buying Torches]() | [Code] |
+| 11 | [Basketball Together](https://codeforces.com/problemset/problem/1725/B) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Basketball%20Together.cpp) | 27 | [Fair Numbers]() | [Code] |
 | 12 | [Beautiful Array]() | [Code] | 28 | [Move Brackets]() | [Code] |
 | 13 | [Luke is a Foodie]() | [Code] | 29 | [Johnny and Ancient Computer]() | [Code] |
 | 14 | [Shoe Shuffling]() | [Code] | 30 | [Bogosort]() | [Code] |
-| 15 | [Black and White Stripe]() | [Code] | 31 | [Reverse a Substring]() | [Code] |
+| 15 | [Black and White Stripe](https://codeforces.com/problemset/problem/1690/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1000%20Rating%20Problems/Black%20and%20White%20Stripe.cpp) | 31 | [Reverse a Substring]() | [Code] |
 | 16 | [Red Versus Blue]() | [Code] |    |    |    |
 
 ### 1100 Rating Problems
