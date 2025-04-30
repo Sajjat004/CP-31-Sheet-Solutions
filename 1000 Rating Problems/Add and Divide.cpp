@@ -4,15 +4,21 @@ using namespace std;
 int solve() {
   int a, b; cin >> a >> b;
 
-  int operations = 0;
-  if (b == 1) {
-    operations += 1;
-    b++;
-  }
+  int operations = INT_MAX;
+  
+  for (int i = max(2, b); ; i++) {
+    int x = a;
+    int count = i - b;
+    while (x > 0) {
+      x /= i;
+      count++;
+    }
 
-  while (a > 0) {
-    a /= b;
-    operations++;
+    if (count <= operations) {
+      operations = count;
+    } else {
+      break;
+    }
   }
 
   return operations;
@@ -28,3 +34,5 @@ int32_t main() {
     
   return 0;
 }
+
+// Problem Link: https://codeforces.com/problemset/problem/1485/A

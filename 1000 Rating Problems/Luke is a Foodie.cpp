@@ -8,19 +8,27 @@ int solve() {
     cin >> a[i];
   }
 
-  int maxAffinity = a[0] + x;
-  int minAffinity = max(0, a[0] - x);
-  int changesOfAffinity = 0;
+  vector<pair<int, int>> affinitySegment;
+  for (int i = 0; i < n; ++i) {
+    affinitySegment.push_back({a[i] - x, a[i] + x});
+  }
+
+  int left = affinitySegment[0].first;
+  int right = affinitySegment[0].second;
+  int changeOfAffinity = 0;
 
   for (int i = 1; i < n; ++i) {
-    if (a[i] > maxAffinity or a[i] < minAffinity) {
-      changesOfAffinity++;
-      maxAffinity = a[i] + x;
-      minAffinity = max(0, a[i] - x);
+    left = max(left, affinitySegment[i].first);
+    right = min(right, affinitySegment[i].second);
+
+    if (left > right) {
+      changeOfAffinity++;
+      left = affinitySegment[i].first;
+      right = affinitySegment[i].second;
     }
   }
 
-  return changesOfAffinity;
+  return changeOfAffinity;
 }
 
 int32_t main() {
@@ -33,3 +41,5 @@ int32_t main() {
     
   return 0;
 }
+
+// Problem Link: https://codeforces.com/problemset/problem/1704/B
