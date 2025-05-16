@@ -188,21 +188,21 @@
 ### 1700 Rating Problems
 | No. | Problem Name | Solution | No. | Problem Name | Solution |
 |----|-------------|----------|----|-------------|----------|
-| 1  | [Maximum modulo equality]() | [Code] | 17 | [Fixed Prefix Permutations]() | [Code] |
-| 2  | [Drunken Maze]() | [Code] | 18 | [Quiz Master]() | [Code] |
-| 3  | [Tree Pruning]() | [Code] | 19 | [SlavicG's Favorite Problem]() | [Code] |
-| 4  | [Iris and Game on the Tree]() | [Code] | 20 | [Meta-set]() | [Code] |
-| 5  | [Ruler (hard version)]() | [Code] | 21 | [Even Subarrays]() | [Code] |
-| 6  | [Swap Dilemma]() | [Code] | 22 | [Monoblock]() | [Code] |
-| 7  | [Beauty of the mountains]() | [Code] | 23 | [Rorororobot]() | [Code] |
-| 8  | [Tandem Repeats?]() | [Code] | 24 | [Zero Path]() | [Code] |
-| 9  | [Chat Screenshots]() | [Code] | 25 | [Gambling]() | [Code] |
-| 10 | [Neutral Tonality]() | [Code] | 26 | [Shifting String]() | [Code] |
-| 11 | [Sum of XOR Functions]() | [Code] | 27 | [Road Optimization]() | [Code] |
-| 12 | [Ira and Flamenco]() | [Code] | 28 | [Training Session]() | [Code] |
-| 13 | [Don't Blame Me]() | [Code] | 29 | [The Number of Imposters]() | [Code] |
-| 14 | [Running Miles]() | [Code] | 30 | [Moamen and XOR]() | [Code] |
-| 15 | [Magic Triples (Hard Version)]() | [Code] | 31 | [Kavi on Pairing Duty]() | [Code] |
+| 1  | [Maximum modulo equality](https://codeforces.com/problemset/problem/2050/F) | [Code] | 17 | [Quiz Master]() | [Code] |
+| 2  | [Drunken Maze]() | [Code] | 18 | [SlavicG's Favorite Problem]() | [Code] |
+| 3  | [Tree Pruning]() | [Code] | 19 | [Meta-set]() | [Code] |
+| 4  | [Iris and Game on the Tree]() | [Code] | 20 | [Even Subarrays]() | [Code] |
+| 5  | [Ruler (hard version)]() | [Code] | 21 | [Monoblock]() | [Code] |
+| 6  | [Swap Dilemma]() | [Code] | 22 | [Rorororobot]() | [Code] |
+| 7  | [Beauty of the mountains]() | [Code] | 23 | [Zero Path]() | [Code] |
+| 8  | [Tandem Repeats?]() | [Code] | 24 | [Gambling]() | [Code] |
+| 9  | [Chat Screenshots]() | [Code] | 25 | [Shifting String]() | [Code] |
+| 10 | [Neutral Tonality]() | [Code] | 26 | [Road Optimization]() | [Code] |
+| 11 | [Sum of XOR Functions]() | [Code] | 27 | [Training Session]() | [Code] |
+| 12 | [Ira and Flamenco]() | [Code] | 28 | [The Number of Imposters]() | [Code] |
+| 13 | [Don't Blame Me]() | [Code] | 29 | [Moamen and XOR]() | [Code] |
+| 14 | [Running Miles]() | [Code] | 30 | [Kavi on Pairing Duty]() | [Code] |
+| 15 | [Magic Triples (Hard Version)]() | [Code] | 31 | [Baby Ehab Partitions Again]() | [Code] |
 | 16 | [Fixed Prefix Permutations]() | [Code] |    |    |    |
 
 

@@ -1,1 +1,0 @@
-// Solution for Sum of XOR Functions

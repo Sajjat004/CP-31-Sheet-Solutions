@@ -1,1 +1,0 @@
-// Solution for The Number of Imposters
