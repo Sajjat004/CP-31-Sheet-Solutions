@@ -173,16 +173,16 @@
 | 3  | [Decreasing String](https://codeforces.com/problemset/problem/1886/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Decreasing%20String.cpp) | 19 | [Keshi Is Throwing a Party](https://codeforces.com/problemset/problem/1610/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Keshi%20Is%20Throwing%20a%20Party.cpp) |
 | 4  | [To Become Max]() | [Code] | 20 | [Say No to Palindromes](https://codeforces.com/problemset/problem/1555/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Say%20No%20to%20Palindromes.cpp) |
 | 5  | [Tracking Segments](https://codeforces.com/problemset/problem/1843/E) | [Code] | 21 | [Erase and Extend (Easy Version)]() | [Code] |
-| 6  | [Round Dance](https://codeforces.com/problemset/problem/1833/E) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Round%20Dance.cpp) | 22 | [Parsa's Humongous Tree]() | [Code] |
+| 6  | [Round Dance](https://codeforces.com/problemset/problem/1833/E) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Round%20Dance.cpp) | 22 | [Parsa's Humongous Tree](https://codeforces.com/problemset/problem/1528/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Parsa's%20Humongous%20Tree.cpp) |
 | 7  | [Hits Different]() | [Code] | 23 | [Planar Reflections]() | [Code] |
-| 8  | [Shocking Arrangement](https://codeforces.com/problemset/problem/1798/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Shocking%20Arrangement.cpp) | 24 | [Advertising Agency]() | [Code] |
-| 9  | [Triangle Coloring](https://codeforces.com/problemset/problem/1795/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Triangle%20Coloring.cpp) | 25 | [Row GCD]() | [Code] |
+| 8  | [Shocking Arrangement](https://codeforces.com/problemset/problem/1798/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Shocking%20Arrangement.cpp) | 24 | [Advertising Agency](https://codeforces.com/problemset/problem/1475/E) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Advertising%20Agency.cpp) |
+| 9  | [Triangle Coloring](https://codeforces.com/problemset/problem/1795/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Triangle%20Coloring.cpp) | 25 | [Row GCD](https://codeforces.com/problemset/problem/1458/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Row%20GCD.cpp) |
 | 10 | [Equal Frequencies](https://codeforces.com/problemset/problem/1781/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Equal%20Frequencies.cpp) | 26 | [Chocolate Bunny]() | [Code] |
 | 11 | [Flexible String]() | [Code] | 27 | [Good Subarrays]() | [Code] |
 | 12 | [Interesting Sequence](https://codeforces.com/problemset/problem/1775/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Interesting%20Sequence.cpp) | 28 | [Array Walk]() | [Code] |
-| 13 | [Sending a Sequence Over the Network]() | [Code] | 29 | [Orac and LCM]() | [Code] |
-| 14 | [Meeting on the Line]() | [Code] | 30 | [Linova and Kingdom]() | [Code] |
-| 15 | [Split Into Two Sets]() | [Code] | 31 | [Kuroni and Impossible Calculation]() | [Code] |
+| 13 | [Sending a Sequence Over the Network]() | [Code] | 29 | [Orac and LCM](https://codeforces.com/problemset/problem/1349/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Orac%20and%20LCM.cpp) |
+| 14 | [Meeting on the Line]() | [Code] | 30 | [Linova and Kingdom](https://codeforces.com/problemset/problem/1336/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Linova%20and%20Kingdom.cpp) |
+| 15 | [Split Into Two Sets]() | [Code] | 31 | [Kuroni and Impossible Calculation](https://codeforces.com/problemset/problem/1305/C) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1600%20Rating%20Problems/Kuroni%20and%20Impossible%20Calculation.cpp) |
 | 16 | [Fixed Point Guessing]() | [Code] |    |    |    |
 
 ### 1700 Rating Problems
