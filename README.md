@@ -162,7 +162,7 @@
 | 12 | [13th Labour of Heracles]() | [Code] | 28 | [Minimize the error]() | [Code] |
 | 13 | [Mortal Kombat Tower]() | [Code] | 29 | [Pride]() | [Code] |
 | 14 | [k-Amazing Numbers]() | [Code] | 30 | [Two TVs]() | [Code] |
-| 15 | [Balanced Bitstring]() | [Code] | 31 | [Little Girl and Maximum Sum]() | [Code] |
+| 15 | [Balanced Bitstring](https://codeforces.com/problemset/problem/1404/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1500%20Rating%20Problems/Balanced%20Bitstring.cpp) | 31 | [Little Girl and Maximum Sum]() | [Code] |
 | 16 | [Powered Addition]() | [Code] |    |    |    |
 
 ### 1600 Rating Problems
@@ -188,18 +188,18 @@
 ### 1700 Rating Problems
 | No. | Problem Name | Solution | No. | Problem Name | Solution |
 |----|-------------|----------|----|-------------|----------|
-| 1  | [Maximum modulo equality](https://codeforces.com/problemset/problem/2050/F) | [Code] | 17 | [Quiz Master]() | [Code] |
-| 2  | [Drunken Maze]() | [Code] | 18 | [SlavicG's Favorite Problem]() | [Code] |
-| 3  | [Tree Pruning]() | [Code] | 19 | [Meta-set]() | [Code] |
-| 4  | [Iris and Game on the Tree]() | [Code] | 20 | [Even Subarrays]() | [Code] |
-| 5  | [Ruler (hard version)]() | [Code] | 21 | [Monoblock]() | [Code] |
-| 6  | [Swap Dilemma]() | [Code] | 22 | [Rorororobot]() | [Code] |
-| 7  | [Beauty of the mountains]() | [Code] | 23 | [Zero Path]() | [Code] |
-| 8  | [Tandem Repeats?]() | [Code] | 24 | [Gambling]() | [Code] |
-| 9  | [Chat Screenshots]() | [Code] | 25 | [Shifting String]() | [Code] |
-| 10 | [Neutral Tonality]() | [Code] | 26 | [Road Optimization]() | [Code] |
-| 11 | [Sum of XOR Functions]() | [Code] | 27 | [Training Session]() | [Code] |
-| 12 | [Ira and Flamenco]() | [Code] | 28 | [The Number of Imposters]() | [Code] |
+| 1  | [Maximum modulo equality](https://codeforces.com/problemset/problem/2050/F) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Maximum%20modulo%20equality.cpp) | 17 | [Quiz Master](https://codeforces.com/problemset/problem/1777/C) | [Code] |
+| 2  | [Drunken Maze](https://codeforces.com/problemset/problem/2041/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Drunken%20Maze.cpp) | 18 | [SlavicG's Favorite Problem]() | [Code] |
+| 3  | [Tree Pruning](https://codeforces.com/problemset/problem/2018/C) | [Code] | 19 | [Meta-set]() | [Code] |
+| 4  | [Iris and Game on the Tree](https://codeforces.com/problemset/problem/2006/A) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Iris%20and%20Game%20on%20the%20Tree.cpp) | 20 | [Even Subarrays]() | [Code] |
+| 5  | [Ruler (hard version)](https://codeforces.com/problemset/problem/1999/G2) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Ruler%20(hard%20version).cpp) | 21 | [Monoblock]() | [Code] |
+| 6  | [Swap Dilemma](https://codeforces.com/problemset/problem/1983/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Swap%20Dilemma.cpp) | 22 | [Rorororobot]() | [Code] |
+| 7  | [Beauty of the mountains](https://codeforces.com/problemset/problem/1982/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Beauty%20of%20the%20mountains.cpp) | 23 | [Zero Path]() | [Code] |
+| 8  | [Tandem Repeats?](https://codeforces.com/problemset/problem/1948/D) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Tandem%20Repeats.cpp) | 24 | [Gambling]() | [Code] |
+| 9  | [Chat Screenshots](https://codeforces.com/problemset/problem/1931/F) | [Code](https://github.com/Sajjat004/CP-31-Sheet-Solutions/blob/main/1700%20Rating%20Problems/Chat%20Screenshots.cpp) | 25 | [Shifting String]() | [Code] |
+| 10 | [Neutral Tonality](https://codeforces.com/problemset/problem/1893/B) | [Code] | 26 | [Road Optimization]() | [Code] |
+| 11 | [Sum of XOR Functions](https://codeforces.com/problemset/problem/1879/D) | [Code] | 27 | [Training Session]() | [Code] |
+| 12 | [Ira and Flamenco](https://codeforces.com/problemset/problem/1833/F) | [Code] | 28 | [The Number of Imposters]() | [Code] |
 | 13 | [Don't Blame Me]() | [Code] | 29 | [Moamen and XOR]() | [Code] |
 | 14 | [Running Miles]() | [Code] | 30 | [Kavi on Pairing Duty]() | [Code] |
 | 15 | [Magic Triples (Hard Version)]() | [Code] | 31 | [Baby Ehab Partitions Again]() | [Code] |
